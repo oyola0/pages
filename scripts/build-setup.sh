@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+ de#!/usr/bin/env bash
 set -ex
 
 #Install Flyway

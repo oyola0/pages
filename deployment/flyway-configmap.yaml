@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: flyway-configmap
-  namespace: [student-name]
+  namespace: edgware
 data:
   spring.datasource.username: root
 
