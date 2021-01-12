@@ -17,7 +17,7 @@ spec:
         app: pages
     spec:
       containers:
-        - image: oyola/pages:1.1
+        - image: oyola/pages:pipeline
           name: pages
           ports:
             - containerPort: 8080
