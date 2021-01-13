@@ -20,7 +20,7 @@ spec:
         tier: service
     spec:
       containers:
-        - image: oyola/pages:monitor
+        - image: oyola/pages:scaling
           name: pages
           ports:
             - containerPort: 8080
